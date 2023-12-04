@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <Jugador cod="1">
+        <Nombre>Lionel Messi</Nombre>
+        <Pais>Argentina</Pais>
+        <Pos>Ataque</Pos>
+        <Edad>27</Edad>
+        <Grupo>F</Grupo>
+        <Numero>10</Numero> 
+    </Jugador>
+    <Jugador cod="2">
+        <Nombre>Cristiano Ronaldo</Nombre>
+        <Pais>Portugal</Pais>
+        <Pos>Ataque</Pos>
+        <Edad>29</Edad>
+        <Grupo>G</Grupo>
+        <Numero>7</Numero> 
+    </Jugador>
+    <Jugador cod="3">
+        <Nombre>Andres Guardado</Nombre>
+        <Pais>Mexico</Pais>
+        <Pos>Mediocampo</Pos>
+        <Edad>28</Edad>
+        <Grupo>A</Grupo>
+        <Numero>18</Numero> 
+    </Jugador>
+    <Jugador cod="4">
+        <Nombre>Manuel Neuer</Nombre>
+        <Pais>Alemania</Pais>
+        <Pos>Portero</Pos>
+        <Edad>28</Edad>
+        <Grupo>G</Grupo>
+        <Numero>1</Numero> 
+    </Jugador>
+    <Jugador cod="5">
+        <Nombre>Sergio Ramos</Nombre>
+        <Pais>España</Pais>
+        <Pos>Defensa</Pos>
+        <Edad>28</Edad>
+        <Grupo>F</Grupo>
+        <Numero>15</Numero> 
+    </Jugador>
+</config>

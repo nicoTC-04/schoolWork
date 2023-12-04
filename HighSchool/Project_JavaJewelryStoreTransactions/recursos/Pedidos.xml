@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><config>                                                       
+                                                                              
+    
+
+    <Pedido>       
+        <Tipo>Traspaso</Tipo>    
+        <Codigo>21231</Codigo>
+        <De>Multiplaza</De>
+        <Para>Paseo LaFe</Para>                
+        <Fecha>1632830401</Fecha>         
+        <!--28 de septiembre-->            
+    </Pedido>
+                          
+    
+     <Pedido>                
+        <Tipo>Traspaso</Tipo>                
+        <Codigo>1789</Codigo>                
+        <De>Esfera</De>                
+        <Para>Cumbres</Para>                
+        <Fecha>1632312000</Fecha>         
+        <!--22 de septiembre-->            
+    </Pedido>
+        
+    
+        
+    
+    
+<Pedido><Tipo>Traspaso</Tipo><Codigo>125</Codigo><De>Esfera</De><Para>Cumbres</Para><Fecha>1632204000</Fecha></Pedido><Pedido><Tipo>Traspaso</Tipo><Codigo>450</Codigo><De>Esfera</De><Para>Fashion</Para><Fecha>1637391600</Fecha></Pedido><Pedido><Tipo>Traspaso</Tipo><Codigo>4533</Codigo><De>Citadel</De><Para>Cumbres</Para><Fecha>1637305200</Fecha></Pedido></config>
